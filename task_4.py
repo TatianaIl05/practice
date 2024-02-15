@@ -7,6 +7,6 @@ for j in number_for_sign[7:14]:
 print()
 for k in number_for_sign[14:]:
     print(chr(k), end='')
-#Другой вариант
+# Другой вариант
 print()
 print('(\\___/)', '(=\'.\'=)', '(")_(")', sep='\n')
